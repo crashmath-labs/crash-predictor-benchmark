@@ -6,7 +6,7 @@
 
 An empirical research and benchmark suite evaluating modern machine learning architectures (LSTM, Gradient Boosted Trees, Random Forest, Logistic Regression) against Provably Fair HMAC-SHA256 multiplier sequences in crash games (Aviator, Lucky Jet, Stake Crash, JetX).
 
-Authored by **Dr. Daniel Reeves** (Lead Quantitative Risk Modeler) and **Elena Varga, M.Sc.** at [CrashMath Research Labs](https://crashmath.org).
+Developed by the **CrashMath Quant Research Group** at [CrashMath Labs](https://crashmath.org).
 
 ---
 
@@ -59,7 +59,7 @@ Sample Terminal Output:
 ```text
 ==============================================================================
   CRASHMATH RESEARCH LABS • MACHINE LEARNING PREDICTOR BENCHMARK
-  Author: Dr. Daniel Reeves, Lead Quantitative Risk Modeler
+  Research Group: CrashMath Quant Research Group
   Dataset: 10,000 Consecutively Generated Provably Fair Rounds
 ==============================================================================
 
@@ -94,16 +94,16 @@ For real-time visual inspection, round simulation, and instant verification of g
 
 ---
 
-## Academic Whitepaper Reference
+## Technical Whitepaper Reference
 
-This benchmark forms the empirical basis of Section 4 in the peer-reviewed technical whitepaper:
+This benchmark forms the empirical basis of Section 4 in the open technical whitepaper:
 
-> Reeves, D., Varga, E. (2026). *Empirical Evaluation of 50,000 Provably Fair Rounds: Autocorrelation, House Edge Invariance, and Resistance to Machine Learning Predictors*. Technical Report CRASHMATH-TECH-2026-04, CrashMath Research Labs.  
+> CrashMath Labs (2026). *Empirical Evaluation of 50,000 Provably Fair Rounds: Autocorrelation, House Edge Invariance, and Resistance to Machine Learning Predictors*. Technical Report CRASHMATH-TECH-2026-04, CrashMath Labs.  
 > PDF available at: [`https://crashmath.org/papers/provably-fair-empirical-study-2026.pdf`](https://crashmath.org/papers/provably-fair-empirical-study-2026.pdf)
 
 ```bibtex
-@article{reeves2026crashbenchmark,
-  author = {Reeves, Daniel and Varga, Elena and CrashMath Research Labs},
+@article{crashmath2026crashbenchmark,
+  author = {CrashMath Quant Research Group},
   title = {Empirical Machine Learning Benchmark on Provably Fair Crash Game Sequences},
   year = {2026},
   publisher = {GitHub},
@@ -116,4 +116,4 @@ This benchmark forms the empirical basis of Section 4 in the peer-reviewed techn
 
 ## License
 
-MIT License © 2026 CrashMath Research Labs & Dr. Daniel Reeves.
+MIT License © 2026 CrashMath Labs.

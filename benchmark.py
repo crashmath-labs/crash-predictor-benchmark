@@ -1,7 +1,7 @@
 """
 Crash Multiplier Machine Learning Predictor Benchmark Suite
-Authored by Dr. Daniel Reeves, Lead Quantitative Risk Modeler
-CrashMath Research Labs (https://crashmath.org)
+Developed by CrashMath Quant Research Group
+CrashMath Labs (https://crashmath.org)
 
 Evaluates whether sequential historical rounds in Provably Fair crash games
 contain exploitable non-linear patterns using standard ML classifiers.
@@ -156,7 +156,7 @@ def run_ml_benchmark(X: np.ndarray, y: np.ndarray) -> Dict[str, Dict[str, float]
 def print_report(audit: Dict, ml_results: Dict, total_rounds: int):
     print("=" * 78)
     print("  CRASHMATH RESEARCH LABS • MACHINE LEARNING PREDICTOR BENCHMARK")
-    print("  Author: Dr. Daniel Reeves, Lead Quantitative Risk Modeler")
+    print("  Research Group: CrashMath Quant Research Group")
     print(f"  Dataset: {total_rounds:,} Consecutively Generated Provably Fair Rounds")
     print("=" * 78)
 
