@@ -90,7 +90,7 @@ Sample Terminal Output:
 
 ## Interactive Scam Detector Tool
 
-For real-time visual inspection, round simulation, and instant verification of game seeds, visit the interactive [CrashMath Predictor Scam Detector](https://crashmath.org/tools/predictor-detector).
+For real-time visual inspection, round simulation, and instant verification of game seeds, visit the interactive [CrashMath Predictor Scam Detector](https://crashmath.org/en/tools/predictor-detector/).
 
 ---
 
